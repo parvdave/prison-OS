@@ -1,0 +1,10 @@
+import java.util.*;
+class File
+{
+	File()
+	{
+		String Prisoners = new String[20][2]; // Stores information about prisoners
+		char mode=''; //Mode to make sure reading and writing are done separately
+		int num=0; // Number of prisoners
+	}
+}
